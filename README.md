@@ -61,15 +61,17 @@
 5.在对确诊者进行医疗隔离、对出现症状者进行隔离、对核酸检测呈阳性者进行隔离的条件下，分别在每天的开始将红色、橙色、黄色
 小球送进医院隔离。
 
-###参考文献
+### 参考文献
 [1]Linton, N.M.; Kobayashi, T.; Yang, Y.; Hayashi, K.; Akhmetzhanov, A.R.; Jung, S.-M.; Yuan, B.; Kinoshita, R.; 
 Nishiura, H. Incubation Period and Other Epidemiological Characteristics of 2019 Novel Coronavirus Infections 
 with Right Truncation: A Statistical Analysis of Publicly Available Case Data. J. Clin. Med. 2020, 9, 538.
+
 [2]Lei Huang, Xiuwen Zhang, Xinyue Zhang, Zhijian Wei, Lingli Zhang, Jingjing Xu, Peipei Liang, Yuanhong Xu, 
 Chengyuan Zhang, Aman Xu, Rapid asymptomatic transmission of COVID-19 during the incubation period 
 demonstrating strong infectivity in a cluster of youngsters aged 16-23 years outside Wuhan and characteristics 
 of young patients with COVID-19: A prospective contact-tracing study, Journal of Infection, Volume 80, Issue 6, 
 2020, Pages e1-e13, ISSN 0163-4453,
+
 [3]Steffen E. Eikenberry, Marina Mancuso, Enahoro Iboi, Tin Phan, Keenan Eikenberry, Yang Kuang, Eric Kostelich,
  Abba B. Gumel, To mask or not to mask: Modeling the potential for face mask use by the general public to curtail
  the COVID-19 pandemic, Infectious Disease Modelling, Volume 5, 2020, Pages 293-308, ISSN 2468-0427,
