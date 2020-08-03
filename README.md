@@ -25,6 +25,7 @@
 
 其中每个学生每天目的地的教室和食堂是在三个教室和三个食堂内随机生成，并且每个学生每天有20%的几率在下课后去
 往体育馆进行锻炼。
+![Image text](https://github.com/TMITMiTmitmi/Simulation-control-measures-of-COVID-19/blob/master/image/image6.png)
 
 3.感染病毒的过程为：**易感者->无症状感染者->有症状感染者->确诊者**    
 + 易感者->无症状感染者  
