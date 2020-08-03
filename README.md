@@ -24,7 +24,7 @@
     **宿舍->教室->食堂->宿舍->教室->(体育馆->)宿舍**  
 
 其中每个学生每天目的地的教室和食堂是在三个教室和三个食堂内随机生成，并且每个学生每天有20%的几率在下课后去
-往体育馆进行锻炼。
+往体育馆进行锻炼。  
 ![Image text](https://github.com/TMITMiTmitmi/Simulation-control-measures-of-COVID-19/blob/master/image/image6.png)
 
 3.感染病毒的过程为：**易感者->无症状感染者->有症状感染者->确诊者**    
@@ -82,19 +82,24 @@
 
    1.由图1可知在只实行一个措施的时候，戴口罩的效果最好，保持社交距离其次，而对学生隔离的措施并没有成效，原因是在短时间
    内很少有同学到达出现症状阶段和确诊阶段，因此对于措施0、3、4来说感染源并没有减少，感染率也没有下降。  
+   
 ![Image text](https://github.com/TMITMiTmitmi/Simulation-control-measures-of-COVID-19/blob/master/image/image1.png)
 
    2.由图2可知，在保持社交距离，即采取措施1的情况下，采取措施2、23、24的防治效果逐步提高，并且戴口罩效果提升最为显著，
    而隔离措施没有很大成效，原因同1。
+   
 ![Image text](https://github.com/TMITMiTmitmi/Simulation-control-measures-of-COVID-19/blob/master/image/image2.png)
 
    3.由图3可知，在带口罩，即采取措施2的情况下，采取措施1、13、14的防治效果逐步提高，并且保持社交距离提升效果最为显著，
    而隔离措施没有很大成效，原因同1。
+   
 ![Image text](https://github.com/TMITMiTmitmi/Simulation-control-measures-of-COVID-19/blob/master/image/image3.png)
 
    4.由图4和图5可知，只要学校采取将核酸检测阳性的同学隔离的措施，疫情就会得到控制，并且由措施5、15、25的数据可以看出，
    在隔离核酸检测阳性学生的情况下，防疫措施效果由好到坏排列为：戴口罩>保持社交距离>不采取措施。
+   
 ![Image text](https://github.com/TMITMiTmitmi/Simulation-control-measures-of-COVID-19/blob/master/image/image4.png)
+
 ![Image text](https://github.com/TMITMiTmitmi/Simulation-control-measures-of-COVID-19/blob/master/image/image5.png)
 
 ### 防疫建议
