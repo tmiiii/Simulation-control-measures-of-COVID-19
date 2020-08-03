@@ -108,6 +108,10 @@
 若没有条件进行核酸检测，则将有症状的学生进行隔离，同时规定学生戴口罩以及保持社交距离，在仿真中采取以上措施大大延长
 了全校同学被感染的时间，由于仿真只是小范围模拟存在误差，因此采取以下措施也会有一定效果。
 
+### 备注
+1.仿真程序逻辑代码位置：Assets/Scripts/NavigationAgent.cs，需在代码中修改变量改变防疫措施
+2.仿真程序可执行文件位置：Simulation/COVID-19.exe
+
 ### 参考文献
 [1]Linton, N.M.; Kobayashi, T.; Yang, Y.; Hayashi, K.; Akhmetzhanov, A.R.; Jung, S.-M.; Yuan, B.; Kinoshita, R.; 
 Nishiura, H. Incubation Period and Other Epidemiological Characteristics of 2019 Novel Coronavirus Infections 
