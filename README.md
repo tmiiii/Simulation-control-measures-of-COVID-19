@@ -61,6 +61,38 @@
 5.在对确诊者进行医疗隔离、对出现症状者进行隔离、对核酸检测呈阳性者进行隔离的条件下，分别在每天的开始将红色、橙色、黄色
 小球送进医院隔离。
 
+### 实验数据分析
+*说明：五种措施分别为：  
++ 1：保持社交距离  
++ 2：戴口罩  
++ 3：对确诊者进行医疗隔离  
++ 4：对出现症状者进行隔离  
++ 5：对核酸检测呈阳性者进行隔离       
+对于实验数据的分析分为两个部分：  
++ 全校所有同学在最后都被感染，通过实验记录十次仿真全校所有学生都被感染的日期的平均值判断防治措施效果，日期越大效
+果越好，涉及措施0、1、2、3、4、12、13、14、23、24、123、124。  
++ 全校只有个别同学在最后被感染，说明疫情最终被控制，通过实验记录十次仿真全校被最初的感染者感染的人数的平均值以及
+最初的感染者感染别人的次数判断防治措施效果，感染人数越少、感染次数越少，说明防治措施效果越好，涉及措施5、15、25、
+125。  *
+
+1.由图1可知在只实行一个措施的时候，戴口罩的效果最好，保持社交距离其次，而对学生隔离的措施并没有成效，原因是在短时间
+内很少有同学到达出现症状阶段和确诊阶段，因此对于措施0、3、4来说感染源并没有减少，感染率也没有下降。  
+
+2.由图2可知，在保持社交距离，即采取措施1的情况下，采取措施2、23、24的防治效果逐步提高，并且戴口罩效果提升最为显著，
+而隔离措施没有很大成效，原因同1。
+
+3.由图3可知，在带口罩，即采取措施2的情况下，采取措施1、13、14的防治效果逐步提高，并且保持社交距离提升效果最为显著，
+而隔离措施没有很大成效，原因同1。
+
+4.由图4和图5可知，只要学校采取将核酸检测阳性的同学隔离的措施，疫情就会得到控制，并且由措施5、15、25的数据可以看出，
+在隔离核酸检测阳性学生的情况下，防疫措施效果由好到坏排列为：戴口罩>保持社交距离>不采取措施。
+
+###防疫建议
+最理想的情况是学校对学生进行核酸检测，将检测呈阳性的学生隔离，同时规定学生戴口罩以及保持社交距离，这样可以在学校出
+现感染者时将学校内疫情控制住。  
+若没有条件进行核酸检测，则将有症状的学生进行隔离，同时规定学生戴口罩以及保持社交距离，在仿真中采取以上措施大大延长
+了全校同学被感染的时间，由于仿真只是小范围模拟存在误差，因此采取以下措施也会有一定效果。
+
 ### 参考文献
 [1]Linton, N.M.; Kobayashi, T.; Yang, Y.; Hayashi, K.; Akhmetzhanov, A.R.; Jung, S.-M.; Yuan, B.; Kinoshita, R.; 
 Nishiura, H. Incubation Period and Other Epidemiological Characteristics of 2019 Novel Coronavirus Infections 
@@ -75,3 +107,9 @@ of young patients with COVID-19: A prospective contact-tracing study, Journal of
 [3]Steffen E. Eikenberry, Marina Mancuso, Enahoro Iboi, Tin Phan, Keenan Eikenberry, Yang Kuang, Eric Kostelich,
  Abba B. Gumel, To mask or not to mask: Modeling the potential for face mask use by the general public to curtail
  the COVID-19 pandemic, Infectious Disease Modelling, Volume 5, 2020, Pages 293-308, ISSN 2468-0427,
+
+### 参考程序
+https://github.com/justinw-fun/COVID-19SimulationInCollege
+
+### 仿真环境
+Unity 2020.2.0a18.2359
