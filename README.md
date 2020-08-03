@@ -50,6 +50,9 @@
 
 5.仿真程序假设人与人之间需要保持的社交距离为1.2m。
 
+6.根据文献[4]对于新冠病毒在环境中的存活时间的研究，假设新冠病毒能在室内残留2天。但由于新冠病毒主要通过飞沫传播，并且
+在仿真过程中室内残留病毒对于结果影响不大，因此忽略室内残留病毒对感染的影响。
+
 ### 程序原理
 1.程序通过小球模拟学生，蓝色的小球为易感者，黄色的小球为感染病毒一天后成为感染源的无症状感染者，橙色的小球为出现症状
 的感染者，红色的小球为确诊者，除蓝色小球外其他颜色小球均可以感染蓝色小球使其变为黄色小球。
@@ -126,7 +129,11 @@ of young patients with COVID-19: A prospective contact-tracing study, Journal of
 
 [3]Steffen E. Eikenberry, Marina Mancuso, Enahoro Iboi, Tin Phan, Keenan Eikenberry, Yang Kuang, Eric Kostelich,
  Abba B. Gumel, To mask or not to mask: Modeling the potential for face mask use by the general public to curtail
- the COVID-19 pandemic, Infectious Disease Modelling, Volume 5, 2020, Pages 293-308, ISSN 2468-0427,
+ the COVID-19 pandemic, Infectious Disease Modelling, Volume 5, 2020, Pages 293-308, ISSN 2468-0427,  
+ 
+[4]Federica Carraturo, Carmela Del Giudice, Michela Morelli, Valeria Cerullo, Giovanni Libralato, Emilia Galdiero, 
+Marco Guida, Persistence of SARS-CoV-2 in the environment and COVID-19 transmission risk from environmental matrices
+and surfaces, Environmental Pollution, Volume 265, Part B, 2020, 115010, ISSN 0269-7491,  
 
 ### 参考程序
 https://github.com/justinw-fun/COVID-19SimulationInCollege
