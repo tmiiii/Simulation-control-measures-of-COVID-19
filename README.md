@@ -110,7 +110,7 @@
 
 ### 备注
 1.仿真程序逻辑代码位置：Assets/Scripts/NavigationAgent.cs，需在代码中修改变量改变防疫措施  
-2.仿真程序可执行文件位置：Simulation/COVID-19.exe  
+2.仿真程序可执行文件位置：Simulation.rar/COVID-19.exe  
 
 ### 参考文献
 [1]Linton, N.M.; Kobayashi, T.; Yang, Y.; Hayashi, K.; Akhmetzhanov, A.R.; Jung, S.-M.; Yuan, B.; Kinoshita, R.; 
