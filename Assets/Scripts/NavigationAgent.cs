@@ -264,7 +264,7 @@ public class NavigationAgent : MonoBehaviour
 
     double InfectionFunction(double x)
     {
-        return x < 1 ? (0.063f * (System.Math.Exp(-1 * System.Math.Log(2) * x) - 0.5)) : 0;
+        return x < 1 ? (0.502f * (System.Math.Exp(-1.45 * x) - 0.003f)) : 0;
     }
 
     void ProbabilisticInfection()
