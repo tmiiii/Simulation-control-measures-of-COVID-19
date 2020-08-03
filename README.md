@@ -88,7 +88,7 @@
    
 ![Image text](https://github.com/TMITMiTmitmi/Simulation-control-measures-of-COVID-19/blob/master/image/image3.png)
 
-   4.由图4和图5可知，只要学校采取将无症状传染源隔离的措施，疫情就会得到控制，并且由措施5、15、25的数据可以看出，在隔离无症状传染源学生的情况下，防疫措施效果由好到差排列为：戴口罩>保持社交距离>不采取措施。同时由于仿真程序只是在小范围内模拟病毒传播，因此采取措施25、125时最初的感染者均没有感染其他人，仿真效果没有差别。
+   4.由图4和图5可知，只要学校采取将无症状传染源隔离的措施，疫情就会得到控制，并且由措施5、15、25的数据可以看出，在隔离无症状传染源学生的情况下，防疫措施效果由好到差排列为：戴口罩>保持社交距离>不采取措施。同时在仿真中采取措施25、125时最初的感染者均没有感染其他人，仿真效果没有差别，与实际大范围情况可能有所差别。
    
 ![Image text](https://github.com/TMITMiTmitmi/Simulation-control-measures-of-COVID-19/blob/master/image/image4.png)
 
